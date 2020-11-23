@@ -1,0 +1,101 @@
+Avengers assemble,2012,143,Joss Whedon,Zak penn,Robert Downey Jr,Chris Evans,Chris Hemsworth,Mark Ruffalo,Scarlett Johansson,Paul Bettany,action,adventure,sci-fi,marvel,super heroes,avengers,team
+Avengers age of ultron,2015,141,Joss Whedon,Stan Lee,Robert Downey Jr,Chris Evans,Chris Hemsworth,Mark Ruffalo,Scarlett Johansson,Paul Bettany,action,adventure,sci-fi,marvel,super heroes,avengers,team
+Avengers infinity war,2018,149,Anthony Russo,Joe Russo,Christopher Markus,Stephen Mcfeely,Robert Downey Jr,Chris Evans,Chris Hemsworth,Mark Ruffalo,Scarlett Johansson,Benedict Cumberbatch,Tom Holland,Chadwick Boseman,Elizabeth Olsen,Karen Gillan,Zoe Saldana,Josh Brolin,Paul Bettany,Pom Klementieff,action,adventure,sci-fi,marvel,super heroes,avengers,team
+Avengers end game,2019,181,Anthony Russo,Joe Russo,Christopher Markus,Stephen Mcfeely,Robert Downey Jr,Chris Evans,Chris Hemsworth,Mark Ruffalo,Brie Larson,Scarlett Johansson,Benedict Cumberbatch,Tom Holland,Chadwick Boseman,Elizabeth Olsen,Karen Gillan,Zoe Saldana,Josh Brolin,Paul Bettany,Pom Klementieff,action,adventure,drama,marvel,super heroes,avengers,team
+Captain marvel,2019,123,Anna Boden,Ryan Fleck,Brie Larson,Samuel L Jackson,Ben Mendelsohn,Jude Law,Annete Bening,action,adventure,sci-fi,marvel,super heroes,captain marvel
+Ant-man,2015,117,Peyton Reed,Edgar Wright,Joe Cornish,Paul Rudd,Michael Douglas,Corey Stoll,Evangeline Lilly,Bobby Cannavale,Anthony Mackie,action,adventure,comedy,marvel,super heroes,ant-man
+Ant-man and the wasp,2018,118,Peyton Reed,Chris McKenna,Erik Sommers,Paul Rudd,Evangeline Lilly,Michael Pena,Micheal Douglas,Walton Goggins,Bobby Cannavale,Hannah John-Kamen,action,adventure,comedy,marvel,super heroes,ant-man
+Thor,2011,115,Kenneth Branagh,Ashley Miller,Zack Stentz,Chris Hemsworth,Anthony Hopkins,Natalie Portman,Tom Hiddleston,Stellan Skarsgard,action,adventure,fantasy,marvel,super heroes,thor
+Thor the dark world,2013,112,Alan Taylor,Christopher L Yost,Christopher Markus,Chris Hemsworth,Anthony Hopkins,Natalie Portman,Tom Hiddleston,Stellan Skarsgard,Christopher Eccleston,action,adventure,fantasy,marvel,super heroes,thor
+Thor ragnarok,2017,130,Taika Waititi,Eric Pearson,Craig Kyle,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Idris Elba,Jeff Goldblum,Tessa Thompson,Mark Ruffalo,Benedict Cumberbatch,Anthony Hopkins,Taika Waititi,action,adventure,comedy,marvel,super heroes,thor
+Iron man,2008,126,Jon Favreau,Mark Fergus,Hawk Ostby,Robert Downey Hr,Gwyneth Paltron,Terrence Howard,Jeff Bridges,Paul Bettany,action,adventure,sci-fi,marvel,super heroes,iron man
+Iron man 2,2010,124,Jon Favreau,Justin Theroux,Robert Downey Jr,Gwyneth Paltron,Don Cheadle,Scarlett Johansson,Paul Bettany,action,adventure,sci-fi,marvel,super heroes,iron man
+Iron man 3,2013,130,Shane Black,Drew Pearce,Shane Black,Robert Downey Jr,Gwyneth Paltron,Don Cheadle,Guy Pearce,Paul Bettany,Jon Favreau,action,adventure,sci-fi,marvel,super heroes,iron man
+Captain America the first avenger,2011,124,Joe Johnston,Christopher Markus,Stephen McFeely,Chris Evans,Hugo Weaving,Samuel L Jackson,Hayley Atwell,Sebastian Stan,Tommy Lee Jones,Dominic Cooper,action,adventure,sci-fi,marvel,super heroes,captain america,
+Captain America the winter soldier,2014,136,Anthony Russo,Joe Russo,Christopher Markus,Stephen McFeely,Chris Evans,Anthony Mackie,Samuel L Jackson,Scarlett Johansson,Sebastian Stan,Toby Jones,Robert Redford,action,adventure,sci-fi,marvel,super heroes,captain america
+Captain America civil war,2016,147,Anthony Russo,Joe Russo,Christopher Markus,Stephen McFeely,Robert Downey Jr,Chris Evans,Anthony Mackie,Scarlett Johansson,Sebastian Stan,Don Cheadlem,Jeremy Renner,Chadwick Boseman,Paul Bettany,Tom Holland,Elizabeth Olsen,action,adventure,sci-fi,marvel,super heroes,captain america
+Guardians of the galaxy,2014,121,James Gunn,Nicole Perlman,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,Dave Bautista,Lee Pace,Karen Gillan,action,adventure,comedy,marvel,super heroes,guardians of the galaxy
+Guardians of the galaxy volume 2,2017,136,James Gunn,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,Dave Bautista,Karen Gillan,Michael Rooker,Pom Klementieff,Kurt Russell,action,adventure,comedy,marvel,super heroes,guardians of the galaxy
+Spider-man homecoming,2017,133,Jon Watts,Jonathan Goldstein,John Francis Daley,Tom Holland,Michael Keaton,Robert Downey Jr,Zendaya,Marisa Tomei,Gwyneth Paltrow,Jon Favreau,Jacob Batalon,action,adventure,sci-fi,marvel,super heroes,spider-man
+Spider-man far from home,2019,129,Jon Watts,Chris McKenna,Erik Sommers,Tom Holland,Samuel L Jackson,Jake Gyllenhaal,Zendaya,Marisa Tomei,Jon Favreau,Jacob Batalon,action,adventure,sci-fi,marvel,super heroes,spider-man
+Doctor strange,2016,115,Scott Derrickson,Jon Spaihts,Benedict Cumberbatch,Chiwetel Ejiofor,Rachel McAdams,Benedict Wong,Mads Mikkelsen,Tilda Swinton,action,adventure,fantasy,marvel,super heroes,doctor strange
+Black panther,2018,134,Ryan Coogler,Joe Robert Cole,Chadwick Boseman,Michael B Jordan,Lupia Nyong'o,Danai Gurira,Martin Freeman,Daniel Kaluuya,Letitia Wright,Winston Duke,action,adventure,sci-fi,marvel,super heroes,black panther
+Deadpool,2016,108,8.0,Tim Miller,Rhett Reese,Paul Wernick,Ryan Reynolds,Morena Baccarin,TJ Miller,Ed Skrein,Karan Soni,Michael Benyaer,Stefan Kapicic,Brianna Hildebrand,action,adventure,comedy,deadpool,marvel,super heroes,anti heroes,funny,powers,romance,love
+Deadpool 2,2018,109,7.7,David Leich,Rhett Reese,Paul Wernick,Ryan Reynolds,Josh Brolin,Morena Baccarin,TJ Miller,Julian Dennison,Brianna Hildebrand,action,adventure,comedy,deadpool,marvel,super heroes,anti heroes,funny,powers,time travel
+The little mermaid,1989,83,Ron Clements,John Musker,Jodi Benson,Samuel E Wright,Rene Auberjonois,Pat Carroll,animation,family,fantasy,old,mermaid,disney,kids
+Aladdin,2019,128,Guy Ritchie,John August,Will Smith,Mena Massoud,Naomi Scott,Marwan Kenzari,Navid Negahban,adventure,family,fantasy,aladdin,remake,live action,disney,kids
+Frozen,2013,102,Chris Buck,Jennifer Lee,Kristen Bell,Idina Menzel,Jonathan Groff,Josh Gad,Santino Fontana,Ciaran Hindus,animation,adventure,comedy,christmas,family,frozen,disney,kids
+Frozen 2,2019,103,Chris Buck,Jennifer Lee,Kristen Bell,Idina Menzel,Jonathan Groff,Josh Gad,Sterling K Brown,Evan Rachel Wood,Alfred Molina,Ciaran Hindus,animation,adventure,comedy,christmas,family,frozen,disney,kids
+Toy story,1995,81,John Lasseter,Pete Docter,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,Wallace Shawn,John Ratzenberger,animation,adventure,comedy,family,toy story,disney,pixar,kids
+Toy story 2,1999,92,John Lasseter,Ash Brannon,Pete Doctor,Tom Hanks,Tim Allen,Joan Cusack,Don Rickles,Jim Varney,Wallace Shawn,John Ratzenberger,animation,adventure,comedy,family,toy story,disney,pixar,kids
+Toy story 3,2010,103,Lee Unkrich,John Lasseter,Andrew Stanton,Tom Hanks,Tim Allen,Joan Cusack,Non Beatty,Don Rickles,Michael Keaton,Wallace Shawn,John Ratzenberger,animation,adventure,comedy,family,toy story,disney,pixar,kids
+Toy story 4,2019,100,Josh Cooley,John Lasseter,Andrew Stanton,Tom Hanks,Tim Allen,Annie Potts,Tony Hale,Keegan-Michael Key,Madeleine McGraw,Keanu Reeves,animation,adventure,comedy,family,toy story,disney,pixar,kids
+The Lion King,1994,88,8.5,Roger Allers,Rob Minkoff,Irene Mechhi,Jonathan Roberts,Matthew Broderick,Jeremy Irons,James Earl Jones,Rowan Atkinson,Niketa Calame-Harris,Jim Cummings,animation,adveture,drama,family,disney,kids,classic,animals,death,betrayal
+The Lion King,2019,118,7.0,Jon Favreau,Jeff Nathanson,Donald Glover,Beyonce,Seth Rogan,Chiwetel Ejiofor,John Oliver,James Earl Jones,John Kani,animation,adveture,drama,live action,remake,family,disney,kids,animals,death,betrayal
+The Lion King 2: Simba's Pride,1998,81,6.5,Darrell Rooney,Rob LaDuca,Flip Kobler,Cindy Marcus,Matthew Broderick,Neve Campbell,Andy Dick,Robert Guillaume,James Earl Jones,Moira Kelly,Nathan Lane,Jim Cummings,animation,adveture,family,disney,kids,animals
+The Lion King 3: Hakuna Matata,2004,77,6.6,Bradley Raymond,Tom Rogers,Roger Allers,Nathan Lane,Ernie Sabella,Julie Kavner,Jerry Stiller,Matthew Broderick,Robert Guillaume,Whoopi Goldberg,Moira Kelly,Jim Cummings,animation,adveture,comedy,family,disney,kids,animals
+Mulan,1998,88,7.6,Tony Bancroft,Barry Cook,Robert D San Souci,Rita Hsiao,Ming-Na Wen,Eddie Murphy,BD Wong,Miguel Ferrer,Harvey Fierstein,Freda Foh Shen,June Foray,James Hong,animation,adventure,family,disney,kids,culture
+Beauty and the beast,2017,129,7.2,Bill Condon,Stephen Chbosky,Evan Spiliotopoulos,Emma Watson,Dan Stevens,Luke Evans,Josh Gad,Kevin Kline,Hattie Morahan,Haydn Gwynne,Ian McKellen,family,fantasy,musical,live action,remake,monster,love,disney,kids,romance,princess
+Beauty and the beast,1991,84,8.0,Gary Trousdale,Linda Woolverton,Brenda Chapman,Paige O'Hara,Robby Benson,Jesse Corti,Rex Everhart,Angela Lansbury,Jerry Orbach,Bradley Pierce,animation,family,fantasy,classic,monster,love,disney,kids,romance,princess
+Ratatouille,2007,111,8.0,Brad Bird,Jan Pinkava,Brad Garrett,Lou Romano,Patton Oswalt,Ian Holm,Brian Dennehy,John Ratzenberger,animation,adveture,comedy,family,disney,kids,animals
+Joker,2019,122,8.7,Todd Phillips,Scott Silver,Joaquin Phoenix,Robert De Niro,Zazie Beetz,Frances Conroy,Brett Cullen,crime,drama,thriller,batman,joker,mental health,murder,dc,super villain,origin
+Justice league,2017,120,6.4,Zack Snyder,Chris Terrio,Joss Whedon,Ben Affleck,Henry Cavill,Amy Adams,Gal Gadot,Ezra Miller, Jason Momoa, Ray Fisher, Jeremy Irons,action,adventure,fantasy,batman,superman,dc,team,justice league,super heroes
+Batman vs superman,2016,151,6.5,Zack Snyder,Chris Terrio,David S Goyer,Ben Affleck,Henry Cavill,Amy Adams,Jesse Eisenberg,Diane Lane,Jeremy Irons,action,adventure,sci-fi,batman,superman,dc,super heroes
+Batman begins,2005,140,8.2,Christopher Nolan,Bob Kane,David S Goyer,Christian Bale,Michael Caine,Liam Neeson,Katie Holmes,Gary Oldman,Cillian Murphy,action,adventure,batman,dark knight,dc,super heroes,origin
+The dark knight,2008,152,9.0,Christopher Nolan,Jonathan Nolan,Bob Kane,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,Gary Oldman,Morgan Freeman,Maggie Gyllenhaal,action,crime,drama,batman,joker,dark knight,dc,super heroes
+The dark knight rises,2012,164,8.4,Christopher Nolan,Jonathan Nolan,Bob Kane,Christian Bale,Michael Caine,Gary Oldman,Morgan Freeman,Tom Hardy,Joseph Gordon-Levitt,Anne Hathaway,action,thriller,batman,dark knight,dc,super heroes
+Wonder woman,2017,141,7.4,Patty Jenkins,Allen Heinberg,Zack Snyder,Gal Gadot,Chris Pine,Robin Wright,Connie Nielsen,Danny Huston,David Thewlis,action,adventure,fantasy,wonder woman,dc,super heroes,war,girl power
+Aqua-man,2018,143,7.0,James Wan,David Leslie Johnson-McGoldrick,Will Beall,Jason Momoa,Amber Heard,Willem Dafoe,Patrick Wilson,Nicole Kidman,action,adventure,fantasy,aquaman,dc,super heroes,sea
+High school musical,2006,98,5.3,Kenny Ortega,Peter Barsocchini,Zac Efron,Vanessa Hudgens,Ashley Tisdale,Lucas Grabeel,Corbin Bleu,comedy,drama,family,disney,kids,musical,singing
+High school musical 2,2007,104,4.9,Kenny Ortega,Peter Barsocchini,Zac Efron,Vanessa Hudgens,Ashley Tisdale,Lucas Grabeel,Corbin Bleu,comedy,drama,family,disney,kids,musical,singing
+High school musical 3,2008,102,4.7,Kenny Ortega,Peter Barsocchini,Zac Efron,Vanessa Hudgens,Ashley Tisdale,Lucas Grabeel,Corbin Bleu,comedy,drama,family,disney,kids,musical,singing
+The greatest showman,2017,105,7.6,Michael Gracey,Jenny Bicks,Bill Condon,Hugh Jackman,Michelle Williams,Zac Efron,Zendaya,Rebecca Ferguson,musical,singing,drama,biography
+La La Land,2016,128,8.0,Damien Chazelle,Ryan Gosling,Emma stone,Rosemarie DeWitt,Amiee Conn,Terry Walters,Thom Shelton,Cinda Adams,Callie Hernandez,comedy,drama,music,musical,singing,jazz
+Kingsman: Secret Service,2014,129,7.7,Matthew Vaughn,Jane Goldman,Colin Firth,Taron Egerton,Samuel L Jackson,Mark Strong,Jonno Davies,Jack Davenport,Alex Nikolov,action,adventure,comedy,spies,shooting,kingsmen,dramatic,killing
+Kingsman: The Golden Circle,2017,141,6.8,Matthew Vaughn,Jane Goldman,Colin Firth,Taron Egerton,Edward Holcroft,Mark Strong,Michael Gambon,action,adventure,comedy,spies,shooting,kingsmen,sequel,dramatic,killing
+John Wick,2014,101,7.4,Chad Stahelski,David Leitch,Derek Kolstad,Keanu Reeves,Michael Nyqvist,Alfie Allen,Willem Dafoe,Dean Winters,Adrianne Palicki,action,crime,thriller,dramatic,killing,vengence,shooting
+John Wick: chapter 2,2017,122,7.5,Chad Stahelski,Darek Kolstad,Keanu Reeves,Riccardo Schamarcio,Ian McShane,Ruby Rose,Claudia Gerini,action,crime,thriller,dramatic,killing,sequel,shooting
+John Wick: chapter 3,2019,131,7.6,Chad Stahelski,Darek Kolstad,Shay Hatten,Keanu Reeves,Halle Berry,Ian McShane,Laurence Fishburne,Mark Dacascos,Asia Kate Dillon,action,crime,thriller,dramatic,killing,sequel,shooting
+Ted,2012,106,6.9,Seth MacFarlane,Alec Sulkin,Wellesley Wild,Mark Wahlberg,Mila Kunis,Joel McHale,comedy,adult,ted,funny
+Ted 2,2015,115,6.3,Seth MacFarlane,Alec Sulkin,Wellesley Wild,Mark Wahlberg,Amanda Seyfried,Jessica Barth,Morgan Freeman,Joel McHale,comedy,adult,ted,funny,sequel,law
+Paul,2011,104,7.0,Gregg Mottola,Simon Pegg,Nick Frost,Seth Rogan,Mia Stallard,Jeremy Owen,Jeffrey Tambor,adventure,comedy,sci-fi,alien,funny,rude
+Shawn of the dead,2004,99,7.9,Edgar Wright,Simon Pegg,Nick Frost,Kate Ashfield,Lucy Davis,Dylan Morgan,Nicola Cunningham,comedy,horror,zombie,apocalypse,cornetto trilogy
+Hot fuzz,2007,121,7.8,Edgar Wright,Simon Pegg,Nick Frost,Martin Freeman,Bill Nighy,Robert Popper,Joe Cornish,Chris Waitt,Eric Mason,action,comedy,mystery,cornetto trilogy
+The world's end,2013,109,7.0,Edgar Wright,Simon Pegg,Nick Frost,Martin Freeman,Thomas Law,Zachery Bailess,Jasper Levine,action,comedy,sci-fi,corentto trilogy
+Slaughter house rulez,2018,104,5.2,Crispian Mills,Henry Fitzherbert,Margot Robbie,Michael Sheen,Asa Butterfield,Simon Pegg,Finn Cole,Kit Connor,Hermione Corfield,Nick Frost,action,comedy,horror,alien
+IT,2017,135,7.3,Andy Muschietti,Chase Palmer,Cary Joyi,Fukunaga,Bill Skarsgard,Jaeden Martell,Finn Wolfhard,Jeremy Ray Taylor,Sophia Lillis,Chosen Jacobs,Wyatt Oleff,horror,clown,scary,alien,shape-shifter,Stephen King
+IT chapter 2,2019,169,6.7,Andy Muschietti,Gary Dauberman,Stephen King,Jessica Chastain,James McAvoy,Bill Hader,Isaiah Mustafa,Jay Ryan,James Ransone,Andy Bean,Bill Skarsgard,Jaeden Martell,Wyatt Oleff,Jack Dylan Grazer,Finn Wolfhard,Sophia Lillis,Chosen Jacobs,Jeremy Ray Taylor,Drama,Fantasy,horror,clown,scary,alien,shape-shifter,IT,sequel
+The shining,1980,146,8.4,Stanley Kubrick,Stephen King,Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers,Barry Nelson,Philip Stone,drama,horror,scary,classic
+Doctor Sleep,2019,152,7.6,Mike Flanagan,Stephen King,Ewan McGregor,Rebecca Ferguson,Kyliegh Curran,drama,fantasy,horror,scary,sequel
+alien,1979,117,8.4,Ridley Scott,Dan O'Bannon,Sigourney Weaver,Tom Skerritt,John Hurt,Veronica Cartwright,Harry Dean Stanton,Ian Holm,horror,sci-fi,classic
+aliens,1986,137,8.4,James Cameron,David Giler,Walter Hill,Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser,Lance Henriksen,Bill Paxton,action,adventure,sci-fi,horror,sequel,alien
+Love actually,2003,135,7.6,Richard Curtis,Hugh Grant,Martine McCutcheon,Liam Neeson,Colin Firth,Emma Thompson,Martin Freemen,Chiwetel Ejiofor,Thomas Brodie-Sangster,comedy,drama,romance,chick flick,christmas
+The fault in our stars,2014,126,7.7,Josh Boone,Scott Neustadter,Michael H Weber,Shailene Woodley,Ansel Elgort,Nat Wolff,Laura Dern,Sam Trammell,Willem Dafoe,drama,romance,love,chick flick
+fifty shades of grey,2015,125,4.1,Sam Taylor-Johnson,Kelly Marcel,EL James,Dakota Johnson,Jamie Dornan,Jennifer Ehle,Eloise Mumford,Victor Rasuk,Rito Ora,drama,romance,thriller,love,book,fifthy shades,trilogy
+fifty shades darker,2017,118,4.6,James Foley,Niall Leonard,EL James,Dakota Johnson,Jamie Dornan,Eric Johnson,Elose Mumford,Rita Ora,Bella Heathcote,drama,romance,love,book,sequel,fifthy shades,trilogy
+fifty shades freed,2018,105,4.5,James Foley,Niall Leonard,EL James,Dakota Johnson,Jamie Dornan,Eric Johnson,Elose Mumford,Rita Ora,Luke Grimes,drama,romance,thriller,love,book,sequel,fifthy shades,trilogy
+Mean Girls,2004,97,7.0,Mark Waters,Rosalind,Tina Fey,Lindsay Lohan,Jonathan Bennett,Rachel McAdams,Tina Fey,Tim Meadows,Amy Poehler,comedy,chick flick,mean girls
+Mean Girls 2,2011,96,4.1,Melanie Mayron,Allison Schroeder,Elana Lesser,Meaghan Martin,Donn Lamkin,Linden Ashby,Dan Coleman,Claire Holt,comedy,chick flick,mean girls
+The Notebook,2004,123,7.8,Nick Cassavetes,Jeremy Leven,Jan Sardi,Gena Rowlands,James Garner,Rachel McAdams,Tim Ivey,Starletta DuPois,Anothy-Michael Q Thomas,Ed Grady,Ryan Gosling,drama,romance,chick flick,love
+Bridget Jones Diary,2001,97,6.7,Sharon Maguire,Helen Fielding,Renee Zellweger,Colin Firth,Hugh Grant,Gemma Jones,Celia Imrie,James Faulkner,Jim Broadbent,comedy,drama,romance,chick flick
+The Sound of Music,1965,172,8.0,Robert Wise,George Hurdalek,Howard Lindsay,Julie Andrews,Christopher Plummer,Eleanor Parker,biography,drama,family,classic
+Mary Poppins,1964,139,7.8,Robert Stevenson,Bill Walsh,Don DaGradi,Julie Andrews,Dick Van Dyke,David Tomlinson,comedy,family,fantasy,classic
+The Wizard of OZ,1939,102,8.0,Victor Fleming,George Cukor,Noel,Langley,Florence Ryerson,Judy Garland,Frank Morgan,Ray Bolger,adventure,family,fantasy,classic
+Pyscho,1960,109,8.5,Alfred Hitchcock,Joseph Stefano,Robert Bloch,Anthony Perkins,Janet Leigh,Vera Miles,horror,mystery,thriller,classic
+Titanic,1997,194,7.8,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zayne,drama,romance,classic,true story
+The Butterfly Effect,2004,113,7.6,Eric Bress,J.Mackye Gruber,Asthon Kutcher,Amy Smart,Melora Walters,drama,sci-fi,thriller
+The Seven Psychopaths,2012,110,7.2,Martin McDonagh,Colin Farrell,Woody Harrelson,Sam Rockwell,comedy,crime
+Pitch Perfect,2012,112,7.2,Jason Moore,Kay Cannon,Mickey Rapkin,Anna Kendrick,Brittany Snow,Rebel Wilson,Skylar Astin,Ben Platt,Anna Camp,Alexis Knapp,Hana Mae Lee,comedy,music,romance,musical,singing,acapella
+Pitch Perfect 2,2015,115,6.4,Elizabeth Banks,Kay Cannon,Mickey Rapkin,Anna Kendrick,Brittany Snow,Rebel Wilson,Skylar Astin,Ben Platt,Anna Camp,Alexis Knapp,Hailee Steinfeld,Hana Mae Lee,comedy,music,romance,musical,singing,acapella
+pitch perfect 3,2017,93,5.8,Trish Sie,Key Cannon,Mike White,Anna Kendrick,Brittany Snow,Rebel Wilson,Skylar Astin,Ben Platt,Anna Camp,Ester Dean,Shelley Regner,Hana Mae Lee,comedy,music,romance,musical,singing,acapella
+Howls Moving Castle,2004,119,8.2,Hayao Miyazaki,Chieko Baisho,Takuya Kimura,Tatsuya Gashuin,animation,adventure,family
+Avatar,2009,162,7.8,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,action,adventure,fantasy
+E.T the Extra-Terrestrial,1982,115,7.8,Steven Spielberg,Melissa Mathison,Henry Thomas,Drew Barrymore,Peter Coyote,family,sci-fi,classic,alien
+The Godfather,1972,175,9.2,Francis Ford Coppola,Mario Puzo,Marlon Brando,Al Pacino,James Caan,crime,drama,classic
+Jurassic Park,1993,127,8.1,Steven Spielberg,Michael Crichton,Sam Neill,Laura Dern,Jeff Goldblum,action,adventure,sci-fi,dinosaurs,classic
+Raiders of the Lost Ark,1981,115,8.4,Steven Spielberg,Lawrence Kasdan,George Lucas,Harrison Ford,Karen Allen,Paul Freeman,action,adventure,classic,Indiana Jones
+The Shawshank Redemption,1994,142,9.3,Frank Derabont,Stephen King,Tim Robbins,Morgan Freeman,Rob Gunton,drama,classic,prison
+Jaws,1975,124,8.0,Steven Spielberg,Peter Benchley,Carl Gottlieb,Roy Scheider,Robert Shaw,Richard Dreyfuss,adventure,drama,thriller,classic
+The Matrix,1999,136,8.7,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,action,sci-fi,classic,digital
+Forrest Gump,1994,142,8.8,Robert Zemeckis,Winston Groom,Eric Roth,Tom Hanks,Robin Wright,Gary Sinise,drama,romance
+Baby Driver,2017,113,7.6,Edgar Wright,Ansel Elgort,Jon Bernthal,Jon Hamm,Eiza Gonzalez,Micha Howard,Lily James,Morgan Brown,Kevin Spacey,action,crime,drama
